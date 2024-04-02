@@ -1,0 +1,10 @@
+.voyager .nav-tabs>li.active>a:hover{
+    background-color:#62a8ea;
+}
+label{
+    text-transform: capitalize;
+    font-weight:500;
+}
+.table>tbody>tr:nth-of-type(odd){
+    background-color: #f8fafc;
+}
